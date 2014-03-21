@@ -1,0 +1,28 @@
+@import "bootstrap";
+
+.headertext {
+    display: block;
+    margin-top: 30px;
+    text-align:center;
+}
+
+.top-nav {
+  list-style: none;
+  width: 100%;
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  li:last-child{
+    margin-right: 0;
+  }
+}
+
+.tagline {
+  text-align:center;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align:center;
+}
